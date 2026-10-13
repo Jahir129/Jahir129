@@ -50,9 +50,6 @@ A security-focused project designed to assess host and network exposure and help
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### Data & Visualization
@@ -77,13 +74,7 @@ I use isolated virtual environments to learn security concepts through hands-on 
 - **Security monitoring:** Exploring Splunk and Windows event logs to understand log ingestion and security analysis.
 - **Networking fundamentals:** Learning IP addressing, DNS, ports, protocols, and service behavior.
 
----
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jahir129&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jahir129&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
